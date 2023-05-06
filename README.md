@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Fiza Khan</h1>
-<h3 align="center">just exploring the magical world of programming!</h3>
+<h2 align="center">just exploring the magical world of programming!</h2>
 
 - 🌱 I’m currently learning **Java, Flutter and Web development**
 
