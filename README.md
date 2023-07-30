@@ -18,7 +18,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fizakhan90&show_icons=true&locale=en&layout=compact" alt="fizakhan90" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fizakhan90&show_icons=true&locale=en" alt="fizakhan90" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fizakhan90&" alt="fizakhan90" /></p>
 
