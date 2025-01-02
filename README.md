@@ -1,8 +1,6 @@
 <h1 align="center">✨ Hi, I'm Fiza Khan! ✨</h1>
 <h3 align="center"> Developer | Tech Enthusiast | Community Leader </h3>
 
-### 💭 Random Dev Quote  
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue-dark" alt="Random Dev Quote">
 </p>
