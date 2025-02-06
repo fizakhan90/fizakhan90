@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi, I'm Fiza Khan! ✨</h1>
+<h1 align="center"> Hi, I'm Fiza Khan! </h1>
 <h3 align="center"> Developer | Tech Enthusiast | Community Leader </h3>
 
 <p align="center">
@@ -72,15 +72,6 @@
 
 ---
 
-### 💡 Fun Side  
-- 🕸️ **Marvel Buff:** "I am Iron Man" — Tony Stark is the GOAT!  
-- ⚡ **Harry Potter Fan:**  "I’m a proud Gryffindor!"
-- ♟️ **Chess Aspirant:** Currently sharpening my strategic skills one move at a time.  
-- 🍿 **Movie Enthusiast:** Big fan of Spider-Man and Studio Ghibli movies (especially *Whisper of the Heart*).  
-- 📚 **Bookworm:** Always on the lookout for good reads.  
-
----
-
 ### 🌍 Let's Connect  
 
 <p align="left">
@@ -92,6 +83,5 @@
   </a>
 </p>
 
----
-<h3 align="center">"I'm always excited about coding, hackathons, and fandoms. Let's connect!" 🚀"</h3>
+
 
