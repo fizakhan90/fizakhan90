@@ -16,14 +16,7 @@
 
 ---
 
-## little bit about me  
 
-- **software developer** – building web and mobile applications with a user-centric approach  
-- **exploring generative ai** – working on retrieval-augmented generation (rag) and ai-driven solutions  
-- **community leader** – leading google developer groups to foster learning and collaboration  
-- **hackathon enthusiast** – passionate about problem-solving, teamwork, and innovation  
-
----
 
 
 <p align="left">
